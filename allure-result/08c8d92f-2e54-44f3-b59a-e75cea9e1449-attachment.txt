@@ -1,0 +1,4 @@
+ElementHandle.click: Element is not attached to the DOM
+Call log:
+attempting click action
+  -   waiting for element to be visible, enabled and stable

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5eb2c49-68f5-4a82-ae18-bcb5fd2b9840" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DelRu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Locators/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Locators/main_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/data/behaviors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/data/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/data/categories.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/data/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/data/packages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/data/suites.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/data/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/data/test-cases/2d439b712971a07.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/data/test-cases/7fabbcf7b1d58ef1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/data/test-cases/c513af78661caa1d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/data/test-cases/cf31de6d60cd5bac.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/data/timeline.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/export/influxDbData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/export/mail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/export/prometheusData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/history/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/history/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/history/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/history/history.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/history/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/plugin/behaviors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/plugin/packages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/plugin/screen-diff/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/plugin/screen-diff/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/widgets/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/widgets/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/widgets/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/widgets/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/widgets/duration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/widgets/environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/widgets/executors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/widgets/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/widgets/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/widgets/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/widgets/severity.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/widgets/status-chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/widgets/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/allure-report-html/widgets/summary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_docflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_tasksimple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/0523d997-a1e8-49e1-934b-07df8d2f1412-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/07f575f5-7cbc-4b0b-8474-769b3a71afe1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/08c8d92f-2e54-44f3-b59a-e75cea9e1449-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/09f65e0b-c910-434d-8a67-9db44b7f721b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/0d4fbf76-109a-4033-9042-0219749e0760-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/0f3c505f-1970-46e0-bec4-207416e31782-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/162b1c66-43e9-44a4-80d1-0efcf1161bd8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/1748ca46-23a2-497e-afec-01d1675aa893-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/18aea1e8-24a6-4c84-9ff7-2a3ebeee58d5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/289d4a87-91b8-40d0-a850-6ef2d350f011-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/2b14d3ed-b322-4aff-917f-b73c8c92db88-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/2cfe73ca-be12-4003-b72a-a638337f65b9-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/2fd0496e-010a-459c-8f0e-2b56c4d10766-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/3113da99-5b1c-49d1-975d-516b47a18550-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/31468d31-3cd5-445f-92e0-801aef297aa7-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/4aaaaf06-b7a0-4d0e-9dfe-a7f1c7a5c377-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/4d4bdc0d-27eb-4818-950f-1240b80d0dad-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/4d8955a0-c393-47b5-a8b5-a611da92a4dd-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/4fabe767-d159-4e34-bbd8-96e117017849-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/510a17c5-b28b-4265-bb3e-547658d6fea6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/5429bfb6-b4ac-458e-b17e-28618dcd1f46-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/59d07603-ef84-4cfd-9eb5-820672f0bfc2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/5b282cbf-a3e9-4591-bf27-5c9b393ce1d7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/5c3c72ad-12ba-46fe-99b9-88693a93df6d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/5fdc13d5-7615-4ae7-aca3-62ecd1816bef-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/6445001c-8358-4da4-bd2f-cf8dea4ca764-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/67ab9175-ca93-4650-903a-de6bf45d6002-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/6f113a1c-9f92-4dc9-b8d7-766e880202ce-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/79e98723-2838-4b09-8313-a2905266469b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/7b37cc5d-7e06-468a-ae39-33976c8b774b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/89fd707d-09cc-4203-9410-6f252921f07f-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/8b7e8bf5-986f-4c7e-b870-cf7deea7a2a2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/8f9c0010-1454-4770-bd09-fee64ea1d682-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/92c10bf3-ac7d-4c34-af12-206ca8b33bf4-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/94c5a62c-3848-4853-a3e5-2643bb1c1439-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/954ff0a3-9509-47c4-b1ce-db72649b85e3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/95b2c3fd-2c99-4b7c-8760-c3078ef1ed2d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/9669e36f-8c28-4532-9b90-dca42d972cc0-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/97941d97-20e1-40ee-b210-3cf3bafa6c41-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/99d42397-7995-4d23-9e69-a19ed4fe4372-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/9fb8c106-dd1a-4c0b-ac0c-9ee8458fec46-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/a188fa39-86c8-4242-8881-9af0b5c30f96-attachment.attach" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/aa2eb8ac-a686-4e4e-9b82-ddcfbdd9bcce-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/afb68053-5ec8-4fbe-b9a5-95ef117ba4c9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/b47a2f31-cdeb-414a-8978-c24b2a2ab4c5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/b4f18b14-18d1-4a4e-82ef-40b2a476597c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/b6d8cae3-294c-40a2-a5b4-a01f35113d33-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/bdb40100-b3e6-48df-8ae8-4f97619a06bf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/bdfb2bb6-7afc-40f3-98ff-4e3808904b7b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/be3405df-7740-40c9-9f9c-dd575f8e25b3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/bf4dfcb4-f2aa-4576-a577-d7ed8775ab50-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/c02b41e1-9d12-410e-838e-f069f5f408b0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/c81a0c7a-0b53-4c75-91d8-87ac16e296e9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/cb8a4fe3-ebfc-4d7b-a26c-f89c5db27fae-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/d03537b2-8ce3-4436-827e-5d26e9307e56-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/d245a5c1-fc84-4f68-9795-0d5d197eaa78-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/d71e5a88-67ae-4301-9c44-a5b9d766d3ee-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/dd258303-abe9-497e-ab31-152daef0a3a7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/ded7ee1a-2d74-4f96-9dba-b973afa75d2f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/e1330feb-12b4-4d0e-a1f4-e71aff6da8a8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/ee399860-362c-446b-b962-de961b1ee30b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/f4533f16-f917-495a-92b6-1b9a1128826b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/f491518d-fc91-4abe-b161-b37d903b081e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-result/fad08a6f-580d-40c9-9a13-71e7d3aa4ae0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/assertions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fixtures/page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fixtures/user_auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/main_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/task_main_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_recorder.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e7d733d8-2b9d-48fc-9f9f-f629e260639c" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pages/task_main_page.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2hPkRqETMVedlo3IfnjklMvYutz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for test_docflow.TestTaskCreate.executor": "Run",
+    "Python tests.Python tests in test_ ew.py.executor": "Run",
+    "Python tests.Python tests in test_auth.py.executor": "Run",
+    "Python tests.Python tests in test_docflow.py.executor": "Run",
+    "Python tests.Python tests in test_new_async.py.executor": "Run",
+    "Python tests.Python tests in test_tasksimple.py.executor": "Run",
+    "Python.main_page.executor": "Run",
+    "Python.task_main_page.executor": "Run",
+    "Python.test_docflow.executor": "Run",
+    "Python.user_auth.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  },
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": []
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\DelRu\fixtures" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_docflow.TestTaskCreate">
+    <configuration name="test_docflow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DelRu" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_docflow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_docflow.TestTaskCreate" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="DelRu" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_docflow.TestTaskCreate&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_docflow.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="DelRu" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/test_docflow.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_docflow.TestTaskCreate" />
+        <item itemvalue="Python.test_docflow" />
+        <item itemvalue="Python tests.Python tests in test_docflow.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5eb2c49-68f5-4a82-ae18-bcb5fd2b9840" name="Changes" comment="" />
+      <created>1717503095036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717503095036</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="c3087d66-915c-46c5-af61-32ff83debddd" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="c3087d66-915c-46c5-af61-32ff83debddd">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

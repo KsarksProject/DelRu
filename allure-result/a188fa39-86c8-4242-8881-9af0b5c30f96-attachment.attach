@@ -1,0 +1,3 @@
+Locator.click: Timeout 60000ms exceeded.
+Call log:
+waiting for locator("div").get_by_text("Другой пользователь")
